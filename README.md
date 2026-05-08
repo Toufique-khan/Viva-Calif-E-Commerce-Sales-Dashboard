@@ -151,6 +151,7 @@ This project helped me strengthen my skills in:
 
 # 📂 Project Workflow
 
+```bash
 Raw Dataset
    ↓
 Data Cleaning
@@ -162,6 +163,7 @@ Pivot Tables & Calculations
 Dashboard Design
    ↓
 Interactive Analysis & Insights
+```
 
 
 ## 💡 Business Questions Answered

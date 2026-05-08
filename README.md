@@ -143,7 +143,7 @@ This project helped me strengthen my skills in:
 
 ## 📊 Insights & Analysis
 <img width="1855" height="927" alt="image" src="https://github.com/user-attachments/assets/f0d8c33b-8342-48a4-9b77-05a2ee127ba8" />
-
+<br>
 <img width="1858" height="921" alt="image" src="https://github.com/user-attachments/assets/619f53c4-4376-4014-9836-1a53d3ffaa4d" />
 
 
@@ -167,25 +167,38 @@ Interactive Analysis & Insights
 ## 💡 Business Questions Answered
 
 Which products generate the highest sales?
+
 Which platform drives the most purchases?
+
 What is the customer gender distribution?
+
 Which state generates maximum revenue?
+
 How satisfied are customers?
+
 What products have the highest inventory movement?
 
 ## 📁 Project Includes
 
 Excel Dashboard File
+
 Interactive Visualizations
+
 Pivot Tables & Charts
+
 Light & Dark Theme Dashboards
 
 ## 📌 Project Purpose
 
+
 This project was created to practice:
+
 Real-world Excel analytics
+
 Business intelligence reporting
+
 Interactive dashboard design
+
 Data-driven storytelling
 
 --- 
